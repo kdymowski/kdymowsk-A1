@@ -3,7 +3,7 @@ package com.example.curiosity_core.kdymowsk_a1;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class FillInTheBlankQuestion extends AppCompatActivity {
+public class FillInTheBlankActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">kdymowsk-A1</string>
+    <!--Multiple choice question-->
+    <string name="question_oregon_trail">Where does the Oregon Trail start?</string>
+    <string name="answer_oregon_trail">Missouri</string>
+    <string name="answer1_oregon_trail">Oregon</string>
+    <string name="answer2_oregon_trail">Washington DC</string>
+    <string name="answer3_oregon_trail">Massachusetts</string>
 </resources>
