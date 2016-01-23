@@ -1,9 +1,20 @@
 <resources>
-    <string name="app_name">kdymowsk-A1</string>
+    <string name="app_name">This is Jeopardy</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
     <!--Multiple choice question-->
     <string name="question_oregon_trail">Where does the Oregon Trail start?</string>
     <string name="answer_oregon_trail">Missouri</string>
     <string name="answer1_oregon_trail">Oregon</string>
     <string name="answer2_oregon_trail">Washington DC</string>
     <string name="answer3_oregon_trail">Massachusetts</string>
+    <!--Fill in the blank question-->
+    <string name="dinosaur_question">What really killed the dinosaurs?</string>
+    <string name="dinosaur_answer">Me</string>
+    <!--True False Questions-->
+    <string name="my_name_is_question">My name is Kyle.</string>
 </resources>
