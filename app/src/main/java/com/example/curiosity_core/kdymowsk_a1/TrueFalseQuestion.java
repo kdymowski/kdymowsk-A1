@@ -21,9 +21,5 @@ public class TrueFalseQuestion {
         return mTextResId;
     }
 
-    public void setTextResId(int textResId) {
-        mTextResId = textResId;
-    }
-
 
 }

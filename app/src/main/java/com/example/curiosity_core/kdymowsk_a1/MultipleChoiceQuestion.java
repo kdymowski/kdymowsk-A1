@@ -45,27 +45,7 @@ public class MultipleChoiceQuestion {
         return mCorrectAnswerTestResId;
     }
 
-    public void setQuestionTextResId(int questionTextResId) {
-        mQuestionTextResId = questionTextResId;
-    }
 
-    public void setAnswer0TextResId(int answer0TextResId) {
-        mAnswer0TextResId = answer0TextResId;
-    }
 
-    public void setAnswer1TextResId(int answer1TextResId) {
-        mAnswer1TextResId = answer1TextResId;
-    }
 
-    public void setAnswer2TextResId(int answer2TextResId) {
-        mAnswer2TextResId = answer2TextResId;
-    }
-
-    public void setAnswer3TextResId(int answer3TextResId) {
-        mAnswer3TextResId = answer3TextResId;
-    }
-
-    public void setCorrectAnswerTestResId(int correctAnswerTestResId) {
-        mCorrectAnswerTestResId = correctAnswerTestResId;
-    }
 }

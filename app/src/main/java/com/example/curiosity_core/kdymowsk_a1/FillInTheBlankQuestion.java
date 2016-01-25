@@ -21,11 +21,4 @@ public class FillInTheBlankQuestion {
         return mAnswer;
     }
 
-    public void setQuestion(int question) {
-        mQuestion = question;
-    }
-
-    public void setAnswer(int answer) {
-        mAnswer = answer;
-    }
 }
